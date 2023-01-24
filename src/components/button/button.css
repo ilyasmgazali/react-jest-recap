@@ -1,0 +1,9 @@
+.button-style {
+  border: 1px solid grey;
+  padding: 10px;
+  display: inline-block;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+}
